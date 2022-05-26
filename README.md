@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mustafa.
 
-TypeScript Lover
-<h1 align="center">Hi 👋, I'm Mustafa Hersi</h1>
+<h2 align="center">Hi 👋, I'm Mustafa Hersi</h2>
 <h3 align="center">Design and development</h3>
 
 <p align="left"> <a href="https://twitter.com/mustive10" target="blank"><img src="https://img.shields.io/twitter/follow/mustive10?logo=twitter&style=for-the-badge" alt="mustive10" /></a> </p>
